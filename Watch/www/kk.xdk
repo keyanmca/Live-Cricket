@@ -1,0 +1,31 @@
+{
+  "project": {
+    "projectSettingsVersion": "1.0",
+    "creationData": {
+      "type": "Import",
+      "src": "E:\\Library\\Live Cricket  App\\iOS Site\\Watch Live Cricket\\Watch\\www",
+      "projectGuid": "d78dc57c-2a12-449c-8ab1-5a35541acb69",
+      "lastModifiedDate": 1389984690739,
+      "creationDate": 1389984690669
+    },
+    "projectFiles": {},
+    "projectDirectories": {},
+    "libraries": [
+      {
+        "name": "Cordova",
+        "version": "2.9.0",
+        "data": {
+          "default": true
+        }
+      },
+      {
+        "name": "intelXDK",
+        "version": "4.0.0",
+        "data": {
+          "default": true
+        }
+      }
+    ],
+    "services": []
+  }
+}

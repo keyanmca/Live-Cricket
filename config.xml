@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="io.cordova.hellocordova" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Live Cricket</name>
+    <description>
+        An app for watching live cricket gamess
+    </description>
+    <author email="denpalrius@live.com" href="www.momentumcore.co">
+        Momentum Core LLC(www.momentumcore.com)
+    </author>
+    <content src="index.html" />
+    <access origin="*" />
+</widget>
